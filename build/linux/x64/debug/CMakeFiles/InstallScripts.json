@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/qwaq/GitHub/VincentClient/build/linux/x64/debug/cmake_install.cmake",
-		"/home/qwaq/GitHub/VincentClient/build/linux/x64/debug/flutter/cmake_install.cmake",
-		"/home/qwaq/GitHub/VincentClient/build/linux/x64/debug/runner/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

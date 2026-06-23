@@ -49,6 +49,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.9"
+  dynamic_color:
+    dependency: "direct main"
+    description:
+      name: dynamic_color
+      sha256: "43a5a6679649a7731ab860334a5812f2067c2d9ce6452cf069c5e0c25336c17c"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.8.1"
+  equatable:
+    dependency: transitive
+    description:
+      name: equatable
+      sha256: "3e0141505477fd8ad55d6eb4e7776d3fe8430be8e497ccb1521370c3f21a3e2b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.0.8"
   fake_async:
     dependency: transitive
     description:
@@ -70,11 +86,35 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.0.0"
+  flutter_m3shapes_extended:
+    dependency: "direct main"
+    description:
+      name: flutter_m3shapes_extended
+      sha256: "93258d82efcc72c249f69b0fd991b535d5a2da99a5dd1aa77af07a6b4f86600f"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
     source: sdk
     version: "0.0.0"
+  http:
+    dependency: "direct main"
+    description:
+      name: http
+      sha256: "87721a4a50b19c7f1d49001e51409bddc46303966ce89a65af4f4e6004896412"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.6.0"
+  http_parser:
+    dependency: transitive
+    description:
+      name: http_parser
+      sha256: "178d74305e7866013777bab2c3d8726205dc5a4dd935297175b19a23a2e66571"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.1.2"
   leak_tracker:
     dependency: transitive
     description:
@@ -107,6 +147,54 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.1.0"
+  m3e_buttons:
+    dependency: "direct main"
+    description:
+      name: m3e_buttons
+      sha256: "50cdf9ba30fb3ab529afafb0e837484549f8599f1f109ac07da50951febaace1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.3"
+  m3e_card_list:
+    dependency: "direct main"
+    description:
+      name: m3e_card_list
+      sha256: d4aba0123cccda40ac80789befa8d355e1dc16aa7dcee910157690b0546d78d6
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.0"
+  m3e_core:
+    dependency: "direct main"
+    description:
+      name: m3e_core
+      sha256: "4d58abf96efddc8b4d7beb38be7816f3c8f8b01651df29fe1e62f9228c053bfb"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.0"
+  m3e_dismissible:
+    dependency: "direct main"
+    description:
+      name: m3e_dismissible
+      sha256: "97a341a4978e4cc5dc60dfb9d70bdc810cdd94ee996c84785e6d259ff3e1dad8"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.0"
+  m3e_dropdown_menu:
+    dependency: "direct main"
+    description:
+      name: m3e_dropdown_menu
+      sha256: "5a0c720f8f28447193560d38bdaf9559316323d04b1ab424ab0c7bc5daf8a5c7"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.0"
+  m3e_expandable:
+    dependency: "direct main"
+    description:
+      name: m3e_expandable
+      sha256: dc8b883fdabceb2b680fadb577e241613895268a38240579e4b46abc4d3d62ed
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.0"
   matcher:
     dependency: transitive
     description:
@@ -131,6 +219,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.18.0"
+  motor:
+    dependency: transitive
+    description:
+      name: motor
+      sha256: cbd49f21b00e568c2b1a55f134ed803614a107782f4fea7769693bca32940c58
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
   path:
     dependency: transitive
     description:
@@ -139,6 +235,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  path_drawing:
+    dependency: transitive
+    description:
+      name: path_drawing
+      sha256: bbb1934c0cbb03091af082a6389ca2080345291ef07a5fa6d6e078ba8682f977
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.1"
+  path_parsing:
+    dependency: transitive
+    description:
+      name: path_parsing
+      sha256: "883402936929eac138ee0a45da5b0f2c80f89913e6dc3bf77eb65b84b409c6ca"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -192,6 +304,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.7.11"
+  typed_data:
+    dependency: transitive
+    description:
+      name: typed_data
+      sha256: f9049c039ebfeb4cf7a7104a675823cd72dba8297f264b6637062516699fa006
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.4.0"
   vector_math:
     dependency: transitive
     description:
@@ -208,6 +328,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "15.2.0"
+  web:
+    dependency: transitive
+    description:
+      name: web
+      sha256: "868d88a33d8a87b18ffc05f9f030ba328ffefba92d6c127917a2ba740f9cfe4a"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.1"
 sdks:
   dart: ">=3.12.1 <4.0.0"
-  flutter: ">=3.18.0-18.0.pre.54"
+  flutter: ">=3.32.0"
